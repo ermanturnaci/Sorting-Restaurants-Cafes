@@ -9,3 +9,4 @@
 
 
 The 3 groups above were scored separately, and then these 3 scores were combined to form a "Final score".
+I used "K-means" for clustering.
